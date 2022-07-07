@@ -55,7 +55,7 @@
     "jquery": "^3.4.0",
     "less": "^3.9.0",
     "material-ui-pickers": "^2.2.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "notistack": "^0.6.1",
     "pbkdf2-password": "^1.2.1",
